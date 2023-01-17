@@ -33,8 +33,9 @@ p{
 }
 
 hr{
-    border: dotted #EAF6F6 6px;
+    border: dotted #66BFBF 6px;
     border-bottom: none;
+    width: 10%;
     margin: 100px auto;
 }
 
@@ -47,7 +48,7 @@ hr{
     padding: 100px 0;
 }
 .bottom-container{
-    background-color: #66BFBF;
+    
     padding: 50px 0 20px;
 }
 
@@ -59,12 +60,12 @@ hr{
 }
 
 .flaticon{
-    width: 25%;
+    width: 20%;
     float: left;
     margin-right: 30px;
 }
 .animated{
-    width: 25%;
+    width: 20%;
     float: right;
     margin-left: 30px;
 }
@@ -91,7 +92,7 @@ hr{
     text-decoration: none;
 }
 .copyright{
-    color: #EAF6F6;
+    color: #40514E;
     font-size: 0.75rem;
     padding: 20px 0px;
 
